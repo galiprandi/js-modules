@@ -1,0 +1,22 @@
+{
+  "name": "js-modules",
+  "version": "1.1.0",
+  "description": "My set of JS modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "keywords": [
+    "js",
+    "modules",
+    "tools"
+  ],
+  "author": "Germán Aliprandi <galiprandi@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
