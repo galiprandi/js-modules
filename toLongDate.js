@@ -1,4 +1,4 @@
-// Usage: parseDates(String)
+// Usage: toLongDate(String)
 // In: '10/01/2017'
 // Out: 'martes, 10 de enero de 2017'
 
